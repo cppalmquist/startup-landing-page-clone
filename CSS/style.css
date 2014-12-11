@@ -52,3 +52,10 @@ table {
 	end reset 
 */
 
+.top-navigation {
+	background-color: #ffffff;
+	position: fixed;
+	width:100%;
+	border-bottom: 1px #dddddd;
+	z-index: 9999;
+}
